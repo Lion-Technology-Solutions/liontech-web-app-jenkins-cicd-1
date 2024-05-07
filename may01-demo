@@ -1,3 +1,11 @@
 Testing build automation with jenkins
 this build is editted by engineerpierre
 added sonarqube contiuouse testing code
+
+
+
+    server>
+       <id>nexus</id>
+       <username>engineerpierre</username>
+       <password>Mr99496447</password>
+     </server>
